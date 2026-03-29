@@ -43,7 +43,7 @@ Add your Groq API key in constants.py:
 groq_key = "your_api_key_here"
 ```
 ## ▶️ Run the App
-Bash
+- Bash
 ```
 streamlit run app.py
 ```
