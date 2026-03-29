@@ -22,7 +22,7 @@ Users can control:
 
 ## 📂 Project Structure
 ```
-├── app.py              # Main Streamlit app
+├── paragraph_make.py   # Main Streamlit app
 ├── constants.py        # Stores Groq API key
 ├── requirements.txt    # Dependencies
 └── README.md           # Documentation
